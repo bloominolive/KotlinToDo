@@ -10,7 +10,6 @@ My purpose for writing this software was to demonstrate my ability to research a
 The Task Manager is a command-line application that enables users to add, list, complete, and remove tasks, with persistent storage so tasks are saved between sessions. This project gave me hands-on experience with Kotlin's syntax, data structures, and file handling, as well as using IntelliJ IDEA's 
 debugging and navigation tools to streamline my development process.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
 [Software Demo Video](https://youtu.be/DtzauSZABZY)
 
